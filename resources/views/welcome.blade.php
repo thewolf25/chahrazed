@@ -81,7 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel <span id="mehdi">salem</span>
+                    Laravel <span id="mehdi">salem</span> <br>
+                    <span id="chahrazed" class="success"></span>
                 </div>
 
                 <div class="links">
