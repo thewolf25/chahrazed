@@ -83,6 +83,9 @@
                 <div class="title m-b-md">
                     Laravel <span id="mehdi">salem</span> <br>
                     <span id="chahrazed" class="success"></span>
+
+                    <span id="mehdi" class="danger">chahrazed</span>
+                    <span id="lyne" class="success"></span>
                 </div>
 
                 <div class="links">
